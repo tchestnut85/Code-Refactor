@@ -5,7 +5,11 @@ This is the website for Horiseon. Here you will find the services provided by Ho
 
 The HTML and CSS code of this webpage has been refactored to make the site more accessible and to make the code more concise and accurate.
 
+### Accessing the webpage:
+
 The webpage can be found **[here](https://tchestnut85.github.io/horiseon-marketing/)**.
+<img src=".assets/screenshots/webpage.png"/>
+
 
 ### Examples of the refactored code:
 
