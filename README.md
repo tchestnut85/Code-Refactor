@@ -8,8 +8,8 @@ The webpage can be found [here](https://tchestnut85.github.io/horiseon-marketing
 
 Examples of the refactored code:
 
-<img src="./assets/screenshots/refactor-1.png"/>
+<img src="./assets/screenshots/refactor-1.PNG"/>
 # HTML Refactor
 
-<img src="./assets/screenshots/refactor-3.png"/>
+<img src="./assets/screenshots/refactor-3.PNG"/>
 # CSS Refactor
