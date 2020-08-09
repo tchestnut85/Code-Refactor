@@ -1,7 +1,7 @@
-# Horiseon Marketing Webpage
+# Horiseon Social Solutions Services Webpage
 
 ## About this webpage:
-This is the website for Horiseon Marketing Agency. Here you will find the services provided by Horiseon as well as the benefits of hiring Horiseon.
+This is the website for Horiseon. Here you will find the services provided by Horiseon as well as the benefits of hiring Horiseon.
 
 The HTML and CSS code of this webpage has been refactored to make the site more accessible and to make the code more concise and accurate.
 
