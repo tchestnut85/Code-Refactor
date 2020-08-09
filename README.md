@@ -8,7 +8,7 @@ The HTML and CSS code of this webpage has been refactored to make the site more 
 ### Accessing the webpage:
 
 The webpage can be found **[here](https://tchestnut85.github.io/horiseon-marketing/)**.
-<img src=".assets/screenshots/webpage.png"/>
+<img src="./assets/screenshots/webpage.png"/>
 
 
 ### Examples of the refactored code:
